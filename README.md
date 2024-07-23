@@ -1,5 +1,10 @@
-## Hi there 👋
-![image](https://github.com/user-attachments/assets/66e7636a-5b0d-4744-8511-a65eff480323)
+![image](./images/HelloWorld.png)
+
+# 技能
+<a href="#">
+    <img src="images/python.png" alt="example badge" style="vertical-align:top; margin:6px 4px;">
+</a>  
+
 
 <!--
 **tsqqqqqq/tsqqqqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
